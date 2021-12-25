@@ -1,0 +1,52 @@
+Package: app.debapps.duo1
+Version: 1.1.1
+Section: Learning Apps
+Maintainer: DebApps
+Architecture: iphoneos-arm
+Filename: ./debs/Duo1.1.1.deb
+Size: 15904766
+MD5sum: 843b94b1ff0a7f7a1320cc08e7a73556
+Description: Duolingo 1.1.1
+Name: Duolingo
+Author: DebApps
+
+Package: app.debapps.operam
+Version: 7.0.5
+Section: Browsers
+Maintainer: DebApps
+Architecture: iphoneos-arm
+Filename: ./debs/operam.deb
+Size: 692
+MD5sum: 4d060404373bebdf062444186a25f57d
+Description: Opera Mini 7.0.5
+Name: Opera Mini
+Author: Opera
+
+Package: com.hackulo.us.sourcegui
+Version: 1.2
+Priority: standard
+Section: Hackulo.us
+Maintainer: Genius Blog <admin@hackulo.us
+Architecture: iphoneos-arm
+Filename: ./debs/sourcegui-1.2.deb
+Size: 8518
+MD5sum: c60b66d9fc23710ddb5a149a535951fd
+Description: Hackulo.us Source GUI adds the source icons
+Name: Source GUI
+Author: Genius Blog <admin@hackulo.us>
+
+Package: us.hackulo.crackulous
+Version: 1.0.0.5
+Priority: standard
+Section: Hackulo.us
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: zip, com.hackulo.us.sourcegui
+Architecture: iphoneos-arm
+Filename: ./debs/crackulous-1.0.0.5.deb
+Size: 1189192
+MD5sum: 4acea10c97360993eec91620fd9ff8fc
+Description: Crackulous is an easy-to-use cracking utility.
+Name: Crackulous
+Author: Docmorelli <apps@hackulo.us>
+
