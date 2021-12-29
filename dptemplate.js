@@ -25,7 +25,7 @@ var template = ' \
 </div> \
 <hr> \
 <h3>
-<a href="http://debapps.github.io/" target="_blank">My Website</a></h3> \
+<a href="https://venus5687.github.io/debapps.github.io/" target="_blank">My Website</a></h3> \
 </td> \
 \
 </tr> \
