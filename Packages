@@ -1,3 +1,15 @@
+Package: app.debapps.4shared
+Version: 1.0
+Section: Storage Apps
+Maintainer: DebApps
+Architecture: iphoneos-arm
+Filename: itsadeb/4shared_1.0_iphoneos-arm.deb
+Size: 5856576
+MD5sum: 7411d7dade8d0775b8e894093d88ad3f
+Description: 4shared for iOS.
+Name: 4shared
+Author: DebApps
+
 Package: app.debapps.duo1
 Version: 1.1.1
 Section: Learning Apps
@@ -33,6 +45,24 @@ MD5sum: f0841da1c1c9a58c4434f5d16e79f5d2
 Description: The youtube app but the version is old
 Name: YouTube but old
 Author: A random user
+
+Package: com.exile90.icleanerpro
+Version: 7.9.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: itsadeb/com.exile90.icleanerpro_7.9.0_iphoneos-arm.deb
+Size: 4772402
+MD5sum: 0ce90140ef3ebb38c8fdecda21f9eb7c
+Description: The first real iOS system cleaner & optimizer
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
 
 Package: com.hackulo.us.sourcegui
 Version: 1.2
