@@ -34,6 +34,18 @@ Description: Opera Mini 7.0.5
 Name: Opera Mini
 Author: Opera
 
+Package: app.debutility.alarmc
+Version: 1.32
+Section: Clocks
+Maintainer: DebUtility
+Architecture: iphoneos-arm
+Filename: itsadeb/alarmclock.deb
+Size: 758
+MD5sum: 99c6bfb2417abe2dbea04aafe741afca
+Description: Alarm Clock 1.32
+Name: Alarm Clock
+Author: Impala Studios
+
 Package: com.aru.youold
 Version: 1.0
 Section: DebApps2
@@ -44,6 +56,18 @@ Size: 293116
 MD5sum: f0841da1c1c9a58c4434f5d16e79f5d2
 Description: The youtube app but the version is old
 Name: YouTube but old
+Author: A random user
+
+Package: com.aru.yrthd
+Version: 1.0
+Section: YouTube Fixes
+Maintainer: A random user
+Architecture: iphoneos-arm
+Filename: itsadeb/com.aru.yrthd_1.0_iphoneos-arm.deb
+Size: 30544
+MD5sum: e8c6dafde70e881d7c9e1bd6d31288e4
+Description: YourTube HD tweak.
+Name: YourTube HD
 Author: A random user
 
 Package: com.exile90.icleanerpro
